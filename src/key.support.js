@@ -19,7 +19,7 @@ if (!syn.config.support) {
 			"<input name='radio' type='radio' />" +
 			"<input type='submit' name='submitter'/>" +
 			"<input type='input' name='inputter'/>" +
-			"<input name='one'>" +
+			"<input name='one'/>" +
 			"<input name='two'/>" +
 			"<a href='#abc'></a>" +
 			"<textarea>1\n2</textarea>" +
